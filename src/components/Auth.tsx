@@ -28,7 +28,7 @@ export default function Auth() {
     <div className="min-h-screen bg-white flex items-center justify-center px-4">
       <div className="w-full max-w-md">
         <h1 className="text-3xl font-bold text-gray-900 text-center mb-8">
-          Quiz Uygulaması
+          ÜBK Bilişim Yarışması
         </h1>
 
         <form onSubmit={handleSubmit} className="space-y-4">
